@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ItextSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d0e0aa2f6a52140a25924eefc8dad0ecf123e32")]
 [assembly: System.Reflection.AssemblyProductAttribute("ItextSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ItextSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

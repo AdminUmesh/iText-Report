@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i0ymZ1mJXCA=",
+  "dgSpecHash": "fBDCPDAcrbA=",
   "success": true,
-  "projectFilePath": "P:\\Aimil WorkSpace\\ItextSharp Report\\ItextSharp\\ItextSharp.csproj",
+  "projectFilePath": "P:\\Aimil WorkSpace\\git repo\\iText-Report\\ItextSharp\\ItextSharp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nextgen-crs\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\nextgen-crs\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",

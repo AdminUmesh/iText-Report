@@ -9637,11 +9637,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "P:\\Aimil WorkSpace\\ItextSharp Report\\ItextSharp\\ItextSharp.csproj",
+      "projectUniqueName": "P:\\Aimil WorkSpace\\git repo\\iText-Report\\ItextSharp\\ItextSharp.csproj",
       "projectName": "ItextSharp",
-      "projectPath": "P:\\Aimil WorkSpace\\ItextSharp Report\\ItextSharp\\ItextSharp.csproj",
+      "projectPath": "P:\\Aimil WorkSpace\\git repo\\iText-Report\\ItextSharp\\ItextSharp.csproj",
       "packagesPath": "C:\\Users\\nextgen-crs\\.nuget\\packages\\",
-      "outputPath": "P:\\Aimil WorkSpace\\ItextSharp Report\\ItextSharp\\obj\\",
+      "outputPath": "P:\\Aimil WorkSpace\\git repo\\iText-Report\\ItextSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
